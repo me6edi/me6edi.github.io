@@ -1,0 +1,27 @@
+.port_sidebar_social .social_list li a i
+{
+	font-size: 29px!important;
+}
+.port__social_box p 
+{
+	color: #ff517e!important;
+}
+.port_project_gallery .grid-content
+{
+	bottom: 33%!important;
+	left: : 23%!important;
+}
+.centeredd {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.centeredd h3 {
+	color: white;
+}
+.ttcolor
+{
+	color: #ff754a!important;
+}
